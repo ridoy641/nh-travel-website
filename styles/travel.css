@@ -531,7 +531,7 @@ main {
     .banner-content{  
         
         position: absolute;
-        top: 40%;
+        top: 32%;
         left: 50%;
         transform: translate(-50%, -50%);
         
@@ -677,7 +677,7 @@ main {
         background-color:rgb(246, 244, 242);
         
         width: 80%;
-        height: 200px;
+        height: 225px;
         padding: 20px;
         border-radius: 8px;
         position: absolute;
@@ -692,7 +692,7 @@ main {
         background-color:rgb(246, 244, 242);
         
         width: 80%;
-        height: 200px;
+        height: 225px;
         padding: 20px;
         border-radius: 8px;
         position: absolute;
@@ -706,6 +706,10 @@ main {
        margin-left: 0px;
       
        width: 30%;
+    }
+    .footer-description{
+        text-align: justify;
+        align-items: center;
     }
 
     nav ul li {
